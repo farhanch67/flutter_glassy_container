@@ -1,6 +1,6 @@
 name: glassycontainer
-description: Add Glassmorphic containers in you app to make it more attrative and user friendly.
-version: 0.0.5
+description: Add Glassmorphic containers in your app to make it more attrative and user friendly.
+version: 0.0.6
 homepage: https://github.com/farhanch67/flutter_glassy_container.git
 
 environment:

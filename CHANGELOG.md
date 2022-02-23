@@ -16,3 +16,8 @@ example image resized
 ## 0.0.5
 
 image size resized and updated
+
+
+## 0.0.6
+
+Example added
